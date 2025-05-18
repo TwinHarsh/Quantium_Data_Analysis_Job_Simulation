@@ -65,14 +65,6 @@ This project involves data preparation, customer analytics, experimentation desi
 
 ---
 
-## 📁 Data Sources
-
-- `QVI_transaction_data.csv` – POS transaction data  
-- `QVI_purchase_behaviour.csv` – Customer demographic segments
-
-> ⚠️ **Note:** Data is proprietary to Quantium and may not be redistributed.
-
----
 
 ## 📢 Outcome
 
@@ -86,8 +78,8 @@ This project helps the category team at Quantium:
 ## 📬 Contact
 
 **Harsh Nagar**  
-Email: [your.email@example.com]  
-LinkedIn: [linkedin.com/in/your-profile]  
+Email: [harshnagar05631@gmail.com]  
+LinkedIn: [www.linkedin.com/in/harsh-nagar-8b17bb23a]  
 
 ---
 
