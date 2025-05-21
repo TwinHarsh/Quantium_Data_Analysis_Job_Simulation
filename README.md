@@ -1,12 +1,12 @@
 # Quantium_Data_Analysis_Job_Simulation
 
-# 🛒 Chips Customer Segmentation & Trial Performance Analysis
+#  Chips Customer Segmentation & Trial Performance Analysis
 
 This project involves data preparation, customer analytics, experimentation design, and commercial insights generation for a chips retail brand. It was carried out as part of an internship with **Quantium**, focusing on real-world customer purchasing behavior and store performance analysis.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - **Task 1**: Data Preparation and Customer Analytics  
 - **Task 2**: Experimentation and Uplift Testing  
@@ -14,14 +14,14 @@ This project involves data preparation, customer analytics, experimentation desi
 
 ---
 
-## 🧹 Task 1: Data Preparation & Customer Analytics
+##  Task 1: Data Preparation & Customer Analytics
 
-### 🔍 Goals:
+###  Goals:
 - Clean and preprocess the **transaction** and **customer** datasets.
 - Merge datasets for comprehensive analysis.
 - Explore customer purchasing behavior.
 
-### 📊 Key Analyses:
+###  Key Analyses:
 - Total sales & average transaction value.
 - Sales drivers by **brand**, **packet size**, **customer segment**.
 - Geographic and demographic customer segmentation.
@@ -29,23 +29,23 @@ This project involves data preparation, customer analytics, experimentation desi
 
 ---
 
-## 🧪 Task 2: Experimentation & Uplift Testing
+##  Task 2: Experimentation & Uplift Testing
 
-### 🎯 Objectives:
+###  Objectives:
 - Select suitable **control stores** for each **trial store**.
 - Design and implement a comparison framework.
 - Assess the **impact of layout trials** on sales.
 
-### 📈 Methodology:
+###  Methodology:
 - Match stores using pre-trial sales patterns and customer characteristics.
 - Evaluate trial impact using uplift and time-series visualizations.
 - Generate visual comparisons and statistical insights.
 
 ---
 
-## 📑 Task 3: Strategic Reporting & Recommendations
+##  Task 3: Strategic Reporting & Recommendations
 
-### 🧠 Deliverables:
+###  Deliverables:
 - Business-ready client report using the **Pyramid Principle**.
 - Insights on:
   - Customer segment targeting
@@ -55,7 +55,7 @@ This project involves data preparation, customer analytics, experimentation desi
 
 ---
 
-## 📌 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (pandas, numpy, matplotlib, seaborn)
 - **Jupyter Notebooks**
@@ -66,7 +66,7 @@ This project involves data preparation, customer analytics, experimentation desi
 ---
 
 
-## 📢 Outcome
+##  Outcome
 
 This project helps the category team at Quantium:
 - Understand chip-buying behavior by customer segment
@@ -75,7 +75,7 @@ This project helps the category team at Quantium:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Harsh Nagar**  
 Email: [harshnagar05631@gmail.com]  
